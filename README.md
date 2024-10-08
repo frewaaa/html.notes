@@ -34,6 +34,81 @@
 
 
     </form>
+
+
+
+
+
+
+
+CSS
+
+
+
+h1{
+  color: red; 
+  background-color: blue;
+}
+
+
+body{
+  color: black;
+  
+}
+
+div{
+  border :4px solid black;
+  margin-top: 40px ;
+  margin-bottom: 40px;
+  margin-left: 40px;
+  margin-right: 40px;
+  color:salmon;
+  background-color: blue;
+  padding: 20px
+}
+
+table{
+border :4px solid black;
+  margin-top: 40px ;
+  margin-bottom: 40px;
+  margin-left: 40px;
+  margin-right: 40px;
+  color:slategrey;
+  background-color: pink;
+  padding: 2px
+}
+th{
+  border : 2px solid black;
+}
+td{
+  border : 2px solid black;
+}
+
+INDEX
+
+<div>
+  Lorem Ipsum is simply dummy text of the printing and typesetting industry
+</div>
+<table>
+  <tr>
+    <th>Ad</th>
+      <th>Soyad<th>
+      </tr>
+      <tr>
+        <td>Ali Baran</td>
+        <td>Hisar</td>
+      </tr>
+
+
+
+
+
+</table>
+
+
+
+
+
           
   
 
